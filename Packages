@@ -1,0 +1,16 @@
+Package: com.nichojoshua.truecutsxs
+Version: 2.0.0-2
+Architecture: iphoneos-arm
+Maintainer: NichoJoshua <nichojoshua26@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./debs/com.nichojoshua.truecutsxs_2.0.0-2_iphoneos-arm.deb
+Size: 2720
+MD5sum: 16de3f01740db2044e7e70bb502e119a
+SHA1: dfca11676c90902f9d677676945b27e31a62e1fa
+SHA256: 8d18ecd34f6920a820bf594c8c6b40f4a4822e3960d208121649e07d185568b4
+Section: Tweaks
+Description: Allow all Shortcuts automations to be run without asking! Support A12+!
+Author: NichoJoshua <nichojoshua26@gmail.com>
+Name: TruecutsXS
+
