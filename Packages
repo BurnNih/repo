@@ -1,0 +1,49 @@
+Package: com.nichojoshua.begonecia13
+Version: 13-1+debug
+Architecture: iphoneos-arm
+Maintainer: NichoJoshua <NichoJoshua26@gmail.com>
+Installed-Size: 612
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 13.3), applist
+Conflicts: me.nepeta.begonecia-10
+Filename: ./debs/com.nichojoshua.begonecia13_13-1+debug_iphoneos-arm.deb
+Size: 61220
+MD5sum: d172762b6c190b81bb236ad074b9366d
+SHA1: b3354ac26aca1387ab1481eec07d4ef10879ff88
+SHA256: b5be8f143a11417d7fcf6f566f03b204958df5e4e50332380be1ebccbbde0cbb
+Section: Tweaks
+Description: CC toggle to disable microphone, camera and GPS. Now Support iOS 13
+Author: NichoJoshua <NichoJoshua26@gmail.com>
+Name: BegoneCIA13
+
+Package: com.nichojoshua.hapticvolumexs
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: NichoJoshua <nichojoshua26@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.nichojoshua.hapticvolumexs_1.0-2_iphoneos-arm.deb
+Size: 2696
+MD5sum: 2cc5d8241e428a9d06db1e7d657e97ea
+SHA1: 6dced5eafdc18e05d6ba074b0b423d36cac58021
+SHA256: ebb808a9be9fc371f6ae7f8042a36bdedaa4061c6ab89472f37afb10b7c3bc83
+Section: Tweaks
+Description: Haptic feedback when you increase or decrease volume! iOS 13 only!
+Author: NichoJoshua <nichojoshua26@gmail.com>
+Name: HapticVolumeXS
+
+Package: com.nichojoshua.truecutsxs
+Version: 2.0.0-2
+Architecture: iphoneos-arm
+Maintainer: NichoJoshua <nichojoshua26@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./debs/com.nichojoshua.truecutsxs_2.0.0-2_iphoneos-arm.deb
+Size: 2720
+MD5sum: 16de3f01740db2044e7e70bb502e119a
+SHA1: dfca11676c90902f9d677676945b27e31a62e1fa
+SHA256: 8d18ecd34f6920a820bf594c8c6b40f4a4822e3960d208121649e07d185568b4
+Section: Tweaks
+Description: Allow all Shortcuts automations to be run without asking! Support A12+!
+Author: NichoJoshua <nichojoshua26@gmail.com>
+Name: TruecutsXS
+
