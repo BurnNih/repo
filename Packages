@@ -31,6 +31,22 @@ Description: Haptic feedback when you increase or decrease volume! iOS 13 only!
 Author: NichoJoshua <nichojoshua26@gmail.com>
 Name: HapticVolumeXS
 
+Package: com.nichojoshua.redswitch
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: NichoJoshua <nichojoshua26@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.nichojoshua.redswitch_1.0-2_iphoneos-arm.deb
+Size: 2790
+MD5sum: 93a9643a7d74f6e0991129cfda38c43d
+SHA1: 9ec104d2b2457c745ca001fa3da30674b5e3c5d7
+SHA256: 65753952acd23d487e498a020cefbff7adb4ede7d3f2b2b965eb18acf8cd7eea
+Section: Tweaks
+Description: Change enable switch color to RED!
+Author: NichoJoshua <nichojoshua26@gmail.com>
+Name: RedSwitch
+
 Package: com.nichojoshua.truecutsxs
 Version: 2.0.0-2
 Architecture: iphoneos-arm
